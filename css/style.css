@@ -11,6 +11,7 @@ body {
   font-weight: 300;
   line-height: 2;
   color: #ffa500;
+  background: #ffa500;
 }
 body.fh5co-overflow {
   overflow-x: auto;
@@ -29,6 +30,7 @@ a:hover, a:focus, a:active {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
   color: #ffa500;
+  background: #ffa500;
 }
 
 p {
