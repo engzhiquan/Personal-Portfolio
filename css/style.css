@@ -64,7 +64,7 @@ p {
 
 .btn-primary {
   background: #fb6e14;
-  color: #fff;
+  color: #ffa500;
   border: 2px solid #fb6e14;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -83,7 +83,7 @@ p {
 
 .btn-success {
   background: #58ca7e;
-  color: #fff;
+  color: #ffa500;
   border: 2px solid #58ca7e;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
@@ -102,7 +102,7 @@ p {
 
 .btn-info {
   background: #1784fb;
-  color: #fff;
+  color: #ffa500;
   border: 2px solid #1784fb;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
@@ -121,7 +121,7 @@ p {
 
 .btn-warning {
   background: #fed330;
-  color: #fff;
+  color: #ffa500;
   border: 2px solid #fed330;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
@@ -140,7 +140,7 @@ p {
 
 .btn-danger {
   background: #fb4f59;
-  color: #fff;
+  color: #ffa500;
   border: 2px solid #fb4f59;
 }
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active {
