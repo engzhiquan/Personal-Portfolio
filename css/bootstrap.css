@@ -4650,6 +4650,18 @@ tbody.collapse.in {
   min-height: 55px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+  <style> 
+            /* Modify the background color */ 
+              
+            .navbar-custom { 
+                background-color: orange; 
+            } 
+            /* Modify text color */ 
+              
+            .navbar-custom .navbar-text { 
+                color: white; 
+            } 
+  </style> 
 }
 .navbar:before, .navbar:after {
   content: " ";
